@@ -1,48 +1,48 @@
-@import url('https://fonts.googleapis.com/css?family=Abel|Raleway|Raleway+Dot|Asap|Barlow|Glegoo|Julius+Sans+One|Lato|Muli|Poiret+One|Sulphur+Point|Turret+Road&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Abel|Raleway|Raleway+Dot|Asap|Barlow|Glegoo|Julius+Sans+One|Lato|Muli|Poiret+One|Sulphur+Point|Turret+Road&display=swap");
 
-.home-left{
-    height: 100%;
- }
-
-.home-left-main{
-    height: 100%;
-    text-align: center;
+.home-left {
+  height: 100%;
 }
 
-.home-left-main-col{
-    margin: auto;    
-    display: block;
+.home-left-main {
+  height: 100%;
+  text-align: center;
 }
 
-.first-line{
-    font-size: 4.5rem;
-    font-family: 'Sulphur Point', sans-serif;
+.home-left-main-col {
+  margin: auto;
+  display: block;
 }
 
-.second_line{
-    font-size: 3rem;
-    font-family: 'Julius Sans One', sans-serif;
+.first-line {
+  font-size: 4.5rem;
+  font-family: "Sulphur Point", sans-serif;
 }
 
-.typical{
-    font-size: 1.6rem;
-    font-family: 'Sulphur Point', sans-serif;
+.second_line {
+  margin-top: 40px;
+  font-size: 3rem;
+  font-family: "Julius Sans One", sans-serif;
 }
 
-.home-left-aboutme-main{
-    position: relative;
-    z-index: -1;
+.typical {
+  font-size: 1.6rem;
+  font-family: "Sulphur Point", sans-serif;
 }
 
-.home-left-aboutme{
-   color: aliceblue;
+.home-left-aboutme-main {
+  position: relative;
+  z-index: -1;
 }
 
-.home-left-aboutme:hover{
-    color: black;
- }
+.home-left-aboutme {
+  color: aliceblue;
+}
 
-.home-left-aboutmme-btn:hover{
-     background: #666666;
- }
+.home-left-aboutme:hover {
+  color: black;
+}
 
+.home-left-aboutmme-btn:hover {
+  background: #666666;
+}
